@@ -1,0 +1,252 @@
+{
+  "template": "shipany-template-one",
+  "theme": "light",
+  "header": {
+    "brand": {
+      "title": "AI Video Text Remover",
+      "logo": {
+        "src": "/logo.png",
+        "alt": "AI Video Text Remover"
+      },
+      "url": "/"
+    },
+    "nav": {
+      "items": [
+        {
+          "title": "Features",
+          "url": "/#feature",
+          "icon": "RiSparkling2Line"
+        },
+        {
+          "title": "Tutorial",
+          "url": "/tutorial",
+          "icon": "RiVideoLine"
+        }
+      ]
+    },
+    "buttons": [
+      {
+        "title": "Try Now",
+        "url": "/app",
+        "target": "_self",
+        "variant": "default",
+        "icon": "RiPlayCircleLine"
+      }
+    ],
+    "show_sign": true,
+    "show_theme": true,
+    "show_locale": true
+  },
+  "hero": {
+    "title": "Remove Any Text from Videos with One Click",
+    "highlight_text": "One Click",
+    "description": "Using advanced AI technology to intelligently detect and remove various text from videos, including subtitles, watermarks, and logos.<br/>High-quality output, fast processing, make your videos more professional.",
+    "announcement": {
+      "label": "New Feature",
+      "title": "🎉 Batch Processing Support",
+      "url": "/#feature"
+    },
+    "tip": "🎁 50% off for new users",
+    "buttons": [
+      {
+        "title": "Use for Free",
+        "icon": "RiFlashlightFill",
+        "url": "/app",
+        "target": "_self",
+        "variant": "default"
+      },
+      {
+        "title": "Watch Demo",
+        "icon": "RiPlayCircleLine",
+        "url": "/#demo",
+        "target": "_self",
+        "variant": "outline"
+      }
+    ],
+    "show_happy_users": true,
+    "show_badge": true
+  },
+  "branding": {
+    "disabled": true
+  },
+  "introduce": {
+    "name": "introduce",
+    "title": "Why Choose Our AI Video Text Removal Tool",
+    "label": "Introduction",
+    "description": "Professional AI video processing tool that makes video editing simple and quick",
+    "image": {
+      "src": "/imgs/features/demo.png"
+    },
+    "items": [
+      {
+        "title": "Smart Detection",
+        "description": "Advanced AI technology automatically detects various types of text in videos, including static and dynamic text.",
+        "icon": "RiAiLine"
+      },
+      {
+        "title": "HD Processing",
+        "description": "Using intelligent repair technology to ensure natural and smooth video quality after text removal.",
+        "icon": "RiHdLine"
+      },
+      {
+        "title": "Quick Export",
+        "description": "Support multiple export formats, fast processing, save your valuable time.",
+        "icon": "RiDownload2Line"
+      }
+    ]
+  },
+  "benefit": {
+    "disabled": true
+  },
+  "usage": {
+    "name": "usage",
+    "title": "Remove Video Text in Three Easy Steps",
+    "description": "Simple operation process, everyone can quickly get started:",
+    "image": {
+      "src": "/imgs/features/usage.png"
+    },
+    "image_position": "right",
+    "text_align": "left",
+    "items": [
+      {
+        "title": "Upload Video",
+        "description": "Drag and drop your video to the webpage or click to upload.",
+        "image": {
+          "src": "/imgs/features/upload.png"
+        }
+      },
+      {
+        "title": "Smart Processing",
+        "description": "AI automatically detects and removes text from the video, you can preview the effect.",
+        "image": {
+          "src": "/imgs/features/process.png"
+        }
+      },
+      {
+        "title": "Export Result",
+        "description": "Choose output format, export the processed video with one click.",
+        "image": {
+          "src": "/imgs/features/export.png"
+        }
+      }
+    ]
+  },
+  "feature": {
+    "name": "feature",
+    "title": "Powerful Features",
+    "description": "Professional video text removal solution for you",
+    "items": [
+      {
+        "title": "Batch Processing",
+        "description": "Process multiple videos simultaneously, improving efficiency multiple times.",
+        "icon": "RiStackLine"
+      },
+      {
+        "title": "Smart Detection",
+        "description": "Automatically detect various text in videos, including subtitles, watermarks, and logos.",
+        "icon": "RiScanLine"
+      },
+      {
+        "title": "HD Output",
+        "description": "Support 4K video processing, ensuring output video quality.",
+        "icon": "RiHdLine"
+      },
+      {
+        "title": "Scene Repair",
+        "description": "Intelligently fill the background after text removal, keeping the scene natural.",
+        "icon": "RiPaintBrushLine"
+      },
+      {
+        "title": "Multiple Formats",
+        "description": "Support MP4, AVI, MOV, and other mainstream video formats.",
+        "icon": "RiFileVideoLine"
+      },
+      {
+        "title": "Cloud Processing",
+        "description": "No software download required, process online, use anytime, anywhere.",
+        "icon": "RiCloudLine"
+      }
+    ]
+  },
+  "stats": {
+    "disabled": true
+  },
+  "testimonial": {
+    "disabled": true
+  },
+  "faq": {
+    "disabled": true
+  },
+  "cta": {
+    "disabled": true
+  },
+  "footer": {
+    "name": "footer",
+    "brand": {
+      "title": "AI Video Text Remover",
+      "description": "Professional AI video processing tool that makes video editing simple and quick.",
+      "logo": {
+        "src": "/logo.png",
+        "alt": "AI Video Text Remover"
+      },
+      "url": "/"
+    },
+    "copyright": "© 2024 • AI Video Text Remover All rights reserved.",
+    "nav": {
+      "items": [
+        {
+          "title": "About",
+          "children": [
+            {
+              "title": "Features",
+              "url": "/#feature",
+              "target": "_self"
+            },
+            {
+              "title": "Tutorial",
+              "url": "/tutorial",
+              "target": "_self"
+            }
+          ]
+        },
+        {
+          "title": "Resources",
+          "children": [
+            {
+              "title": "Documentation",
+              "url": "/docs",
+              "target": "_self"
+            },
+            {
+              "title": "FAQ",
+              "url": "/faq",
+              "target": "_self"
+            }
+          ]
+        }
+      ]
+    },
+    "social": {
+      "items": [
+        {
+          "title": "Email",
+          "icon": "RiMailLine",
+          "url": "mailto:support@example.com",
+          "target": "_self"
+        }
+      ]
+    },
+    "agreement": {
+      "items": [
+        {
+          "title": "Privacy Policy",
+          "url": "/privacy-policy"
+        },
+        {
+          "title": "Terms of Service",
+          "url": "/terms-of-service"
+        }
+      ]
+    }
+  }
+}

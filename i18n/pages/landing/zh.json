@@ -1,0 +1,252 @@
+{
+  "template": "shipany-template-one",
+  "theme": "light",
+  "header": {
+    "brand": {
+      "title": "AI视频文字移除",
+      "logo": {
+        "src": "/logo.png",
+        "alt": "AI视频文字移除"
+      },
+      "url": "/"
+    },
+    "nav": {
+      "items": [
+        {
+          "title": "功能特点",
+          "url": "/#feature",
+          "icon": "RiSparkling2Line"
+        },
+        {
+          "title": "使用教程",
+          "url": "/tutorial",
+          "icon": "RiVideoLine"
+        }
+      ]
+    },
+    "buttons": [
+      {
+        "title": "立即体验",
+        "url": "/app",
+        "target": "_self",
+        "variant": "default",
+        "icon": "RiPlayCircleLine"
+      }
+    ],
+    "show_sign": true,
+    "show_theme": true,
+    "show_locale": true
+  },
+  "hero": {
+    "title": "一键移除视频中的任何文字，让视频更加纯净",
+    "highlight_text": "一键移除",
+    "description": "使用先进的 AI 技术，智能识别并移除视频中的各种文字，包括字幕、水印、logo等。<br/>无损画质，快速处理，让您的视频更加专业。",
+    "announcement": {
+      "label": "新功能",
+      "title": "🎉 支持批量处理",
+      "url": "/#feature"
+    },
+    "tip": "🎁 新用户首次使用立减50%",
+    "buttons": [
+      {
+        "title": "免费使用",
+        "icon": "RiFlashlightFill",
+        "url": "/app",
+        "target": "_self",
+        "variant": "default"
+      },
+      {
+        "title": "查看演示",
+        "icon": "RiPlayCircleLine",
+        "url": "/#demo",
+        "target": "_self",
+        "variant": "outline"
+      }
+    ],
+    "show_happy_users": true,
+    "show_badge": true
+  },
+  "branding": {
+    "disabled": true
+  },
+  "introduce": {
+    "name": "introduce",
+    "title": "为什么选择我们的AI视频文字移除工具",
+    "label": "介绍",
+    "description": "专业的AI视频处理工具，让视频编辑变得简单快捷",
+    "image": {
+      "src": "/imgs/features/demo.png"
+    },
+    "items": [
+      {
+        "title": "智能识别",
+        "description": "先进的AI技术自动识别视频中的各类文字，包括静态和动态文字。",
+        "icon": "RiAiLine"
+      },
+      {
+        "title": "高清处理",
+        "description": "采用智能修复技术，确保移除文字后画面自然流畅，无损画质。",
+        "icon": "RiHdLine"
+      },
+      {
+        "title": "快速导出",
+        "description": "支持多种格式导出，处理速度快，节省您的宝贵时间。",
+        "icon": "RiDownload2Line"
+      }
+    ]
+  },
+  "benefit": {
+    "disabled": true
+  },
+  "usage": {
+    "name": "usage",
+    "title": "三步轻松移除视频文字",
+    "description": "简单的操作流程，人人都能快速上手：",
+    "image": {
+      "src": "/imgs/features/usage.png"
+    },
+    "image_position": "right",
+    "text_align": "left",
+    "items": [
+      {
+        "title": "上传视频",
+        "description": "将需要处理的视频拖拽到网页中或点击上传。",
+        "image": {
+          "src": "/imgs/features/upload.png"
+        }
+      },
+      {
+        "title": "智能处理",
+        "description": "AI自动识别并移除视频中的文字，您可以预览效果。",
+        "image": {
+          "src": "/imgs/features/process.png"
+        }
+      },
+      {
+        "title": "导出成品",
+        "description": "选择输出格式，一键导出处理完成的视频。",
+        "image": {
+          "src": "/imgs/features/export.png"
+        }
+      }
+    ]
+  },
+  "feature": {
+    "name": "feature",
+    "title": "强大的功能特性",
+    "description": "为您提供专业的视频文字移除解决方案",
+    "items": [
+      {
+        "title": "批量处理",
+        "description": "支持多个视频同时处理，效率提升数倍。",
+        "icon": "RiStackLine"
+      },
+      {
+        "title": "智能识别",
+        "description": "自动识别视频中的各类文字，包括字幕、水印、logo等。",
+        "icon": "RiScanLine"
+      },
+      {
+        "title": "高清输出",
+        "description": "支持4K视频处理，确保输出视频质量。",
+        "icon": "RiHdLine"
+      },
+      {
+        "title": "场景修复",
+        "description": "智能填充移除文字后的背景，保持画面自然。",
+        "icon": "RiPaintBrushLine"
+      },
+      {
+        "title": "多格式支持",
+        "description": "支持MP4、AVI、MOV等主流视频格式。",
+        "icon": "RiFileVideoLine"
+      },
+      {
+        "title": "云端处理",
+        "description": "无需下载软件，在线处理，随时随地使用。",
+        "icon": "RiCloudLine"
+      }
+    ]
+  },
+  "stats": {
+    "disabled": true
+  },
+  "testimonial": {
+    "disabled": true
+  },
+  "faq": {
+    "disabled": true
+  },
+  "cta": {
+    "disabled": true
+  },
+  "footer": {
+    "name": "footer",
+    "brand": {
+      "title": "AI视频文字移除",
+      "description": "专业的AI视频处理工具，让视频编辑变得简单快捷。",
+      "logo": {
+        "src": "/logo.png",
+        "alt": "AI视频文字移除"
+      },
+      "url": "/"
+    },
+    "copyright": "© 2024 • AI视频文字移除 保留所有权利。",
+    "nav": {
+      "items": [
+        {
+          "title": "关于",
+          "children": [
+            {
+              "title": "功能特点",
+              "url": "/#feature",
+              "target": "_self"
+            },
+            {
+              "title": "使用教程",
+              "url": "/tutorial",
+              "target": "_self"
+            }
+          ]
+        },
+        {
+          "title": "资源",
+          "children": [
+            {
+              "title": "使用文档",
+              "url": "/docs",
+              "target": "_self"
+            },
+            {
+              "title": "常见问题",
+              "url": "/faq",
+              "target": "_self"
+            }
+          ]
+        }
+      ]
+    },
+    "social": {
+      "items": [
+        {
+          "title": "邮箱",
+          "icon": "RiMailLine",
+          "url": "mailto:support@example.com",
+          "target": "_self"
+        }
+      ]
+    },
+    "agreement": {
+      "items": [
+        {
+          "title": "隐私政策",
+          "url": "/privacy-policy"
+        },
+        {
+          "title": "服务条款",
+          "url": "/terms-of-service"
+        }
+      ]
+    }
+  }
+}
