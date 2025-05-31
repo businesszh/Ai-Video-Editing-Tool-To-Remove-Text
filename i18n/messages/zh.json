@@ -1,8 +1,8 @@
 {
   "metadata": {
-    "title": "几小时内构建任何 AI SaaS 创业项目 | ShipAny",
-    "description": "ShipAny 是一个用于构建 AI SaaS 创业项目的 NextJS 模板，提供各种模板和组件，帮助您快速启动。",
-    "keywords": "ShipAny, AI SaaS 模板, NextJS 模板"
+    "title": "AI 视频编辑工具 | 智能移除文字和水印",
+    "description": "专业的 AI 视频编辑工具，支持智能移除视频中的文字、字幕和水印，提供视频增强和格式转换等功能。",
+    "keywords": "AI视频编辑, 视频文字移除, 视频水印移除, AI视频工具"
   },
   "user": {
     "sign_in": "登录",
